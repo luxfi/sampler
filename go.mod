@@ -1,5 +1,5 @@
 module github.com/luxfi/sampler
 
-go 1.25.5
+go 1.26
 
 require gonum.org/v1/gonum v0.16.0
